@@ -1,0 +1,21 @@
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Flutter
+sama_app/build/
+sama_app/.dart_tool/
+sama_app/.flutter-plugins
+sama_app/.flutter-plugins-dependencies
+sama_app/*.iml
+sama_app/.pub/
+sama_app/.pub_cache/
+
+# Python
+sama_backend/__pycache__/
+sama_backend/.venv/
+sama_backend/venv/
+sama_backend/env/
+sama_backend/*.pyc
