@@ -134,7 +134,4 @@ Contributions are what make the open source community such an amazing place to l
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ for mental wellness</p>
-</div>
 
