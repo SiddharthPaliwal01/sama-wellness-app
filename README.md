@@ -102,9 +102,6 @@ gTTS
 python-dotenv
 ```
 
-## 📱 Screenshots
-
-*Coming soon! Screenshots will be added as the project develops.*
 
 ## 🗺️ Roadmap
 
